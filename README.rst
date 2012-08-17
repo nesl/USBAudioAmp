@@ -1,6 +1,6 @@
 USB Audio Amplifier
 *******************
-The USB Audio amplififer is based upon the reference design for the PCM2906C.  The output from the amplifier is fed in to an STA540 Power amplifer, the design of which is shamelessly borrowed from the `Sparkfun <http://www.sparkfun.com>`_ `audio amplifier kit <http://www.sparkfun.com/products/9612>`_.  The stereo input of the usb codec chip is driven by two instrumentation amplifiers that provide selectable gain of 5, 50 100.5 and 505 or 14dB, 34dB, 40dB and 54dB respectively.  The purpose is further discussed below.
+The USB Audio amplififer is based upon the reference design for the PCM2906C.  The output from the amplifier is fed in to an STA540 Power amplifier, the design of which is shamelessly borrowed from the `Sparkfun <http://www.sparkfun.com>`_ `audio amplifier kit <http://www.sparkfun.com/products/9612>`_.  The stereo input of the usb codec chip is driven by two instrumentation amplifiers that provide selectable gain of 5, 50 100.5 and 505 or 14dB, 34dB, 40dB and 54dB respectively.  The purpose is further discussed below.
 
 The designs files were all created in altium, but a pdf and gerber files are provided so the design can be reused by those interested.
 
@@ -35,7 +35,7 @@ Amplifier Output
 The real interesting part about the widget is the combination of the PCM2906 and the STA540 on a single device, making it a *BOOM* box on a board.  Combine it with any 12-18V power supply, a laptop or single board computer (think rasberry pi) and a pair of 4 Ohm to 8 Ohm 40 Watt speakers and you have yourself a party.  The STA540 (U8) provides gain of 20dB this translates to a factor of 10x.  The PCM2906 output voltage swing is   0.6 * 3.3V or 1.97Vpp. Two non inverting gain stages (U6 and U7) are provides to add additional gain to the outputs.  By default the installed feedback network provide voltage gain of 1.5x or 3.5dB. The sliding switch S1 allows a user to put the STA540 into standby mode.  The D2 led will be on when it is in standby.  Two Pheonix pluggable screw terminals OUTL and OUTR provide access to the output signals from the amplifier.  The DAC ouput offers a resolution of 8, 16 bits.
 
 
-Amplifer Input
+Amplifier Input
 ---------------
 *TODO* Test Inut Amplifiers
 The input amplifiers are as of yet untested. 

@@ -102,7 +102,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document6]
-DocumentPath=USBAudioAmp.PcbDoc
+DocumentPath=..\UnderWaterVoiceBandModem\USBAudioAmp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document7]
-DocumentPath=USBAudioAmp.OutJob
+DocumentPath=..\UnderWaterVoiceBandModem\USBAudioAmp.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,143 +132,143 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for UWVoicebandModem\Design Rule Check - UnderWaterStereo.html
+DocumentPath=..\UnderWaterVoiceBandModem\Project Outputs for UWVoicebandModem\Design Rule Check - UnderWaterStereo.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UWVoicebandModem\Import Error Report - UnderWaterStereo.html
+DocumentPath=..\UnderWaterVoiceBandModem\Project Outputs for UWVoicebandModem\Import Error Report - UnderWaterStereo.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.DRL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.DRR
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.EXTREP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBO
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBS
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GM7
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTO
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTS
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.LDP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.REP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.RUL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.TXT
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.DRL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.DRR
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.EXTREP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBO
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBS
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GM7
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTO
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTS
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.LDP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.REP
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.REP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.RUL
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.TXT
+DocumentPath=..\UnderWaterVoiceBandModem\Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for UWVoicebandModem\UWVoicebandModem.xls
+DocumentPath=..\UnderWaterVoiceBandModem\Project Outputs for UWVoicebandModem\UWVoicebandModem.xls
 DItemRevisionGUID=
 
 [SearchPath1]
