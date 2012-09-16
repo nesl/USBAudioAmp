@@ -1,4 +1,5 @@
 *.SchDocPreview
+*.PcbDocPreview
 *.xml
 *.idw
 *.ipt
@@ -18,4 +19,3 @@ README.dvi
 README.pdf
 USBAudioAmpAssembly.zip
 USBAudioAmpDrawings.OutJob
-USBAudioAmpDrawings.pdf
